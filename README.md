@@ -180,8 +180,8 @@ Contributions are welcome! To contribute:
 
 ## Author
 
-Pavan Kumar Eleti  
-AI/ML and Backend Developer  
+Pavan Eleti  
+Data Scientist  
 Email: pavankumareleti@example.com  
 GitHub: https://github.com/pavankumareleti  
 LinkedIn: https://linkedin.com/in/pavankumareleti  
